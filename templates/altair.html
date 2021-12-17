@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<div id="altair-timeseries"></div>
+</div>
+ <body>
+  <h1>{{header}}</h1>
+  <h3><a href="/">Return to index page</a></h3>
+  <div id='chart' class='chart'”></div>
+  <div>{{description}}</div>
+</body>
+<script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+<script type='text/javascript'>
+function parse(url, div) {  
+var opt = { mode: "vega-lite",  
+    renderer: "svg",  
+    actions: { export: true, source: false, editor: false }  
+    };  
+vegaEmbed("#" + div, url, opt, function (error, result) {  
+   vegaTooltip.vegaLite(result.view, url);  
+   });  
+  }
+parse({{ plot_json | safe }}, "altair-timeseries") 
+</script>
+</html>

@@ -1,0 +1,1610 @@
+{
+ "World": {
+  "children": [
+   {
+    "AFRO": {
+     "children": [
+      {
+       "Algeria": {
+        "children": [
+         "211662"
+        ]
+       }
+      },
+      {
+       "Angola": {
+        "children": [
+         "65280"
+        ]
+       }
+      },
+      {
+       "Benin": {
+        "children": [
+         "24863"
+        ]
+       }
+      },
+      {
+       "Botswana": {
+        "children": [
+         "195552"
+        ]
+       }
+      },
+      {
+       "Burkina Faso": {
+        "children": [
+         "16000"
+        ]
+       }
+      },
+      {
+       "Burundi": {
+        "children": [
+         "20523"
+        ]
+       }
+      },
+      {
+       "C?te d¡¯Ivoire": {
+        "children": [
+         "61826"
+        ]
+       }
+      },
+      {
+       "Cabo Verde": {
+        "children": [
+         "38453"
+        ]
+       }
+      },
+      {
+       "Cameroon": {
+        "children": [
+         "107148"
+        ]
+       }
+      },
+      {
+       "Central African Republic": {
+        "children": [
+         "11742"
+        ]
+       }
+      },
+      {
+       "Chad": {
+        "children": [
+         "5703"
+        ]
+       }
+      },
+      {
+       "Comoros": {
+        "children": [
+         "4543"
+        ]
+       }
+      },
+      {
+       "Congo": {
+        "children": [
+         "19066"
+        ]
+       }
+      },
+      {
+       "Democratic Republic of the Congo": {
+        "children": [
+         "59175"
+        ]
+       }
+      },
+      {
+       "Equatorial Guinea": {
+        "children": [
+         "13599"
+        ]
+       }
+      },
+      {
+       "Eritrea": {
+        "children": [
+         "7484"
+        ]
+       }
+      },
+      {
+       "Eswatini": {
+        "children": [
+         "47851"
+        ]
+       }
+      },
+      {
+       "Ethiopia": {
+        "children": [
+         "372334"
+        ]
+       }
+      },
+      {
+       "Gabon": {
+        "children": [
+         "37511"
+        ]
+       }
+      },
+      {
+       "Gambia": {
+        "children": [
+         "9998"
+        ]
+       }
+      },
+      {
+       "Ghana": {
+        "children": [
+         "131246"
+        ]
+       }
+      },
+      {
+       "Guinea": {
+        "children": [
+         "30798"
+        ]
+       }
+      },
+      {
+       "Guinea-Bissau": {
+        "children": [
+         "6444"
+        ]
+       }
+      },
+      {
+       "Kenya": {
+        "children": [
+         "255469"
+        ]
+       }
+      },
+      {
+       "Lesotho": {
+        "children": [
+         "21838"
+        ]
+       }
+      },
+      {
+       "Liberia": {
+        "children": [
+         "5829"
+        ]
+       }
+      },
+      {
+       "Madagascar": {
+        "children": [
+         "44330"
+        ]
+       }
+      },
+      {
+       "Malawi": {
+        "children": [
+         "61997"
+        ]
+       }
+      },
+      {
+       "Mali": {
+        "children": [
+         "17972"
+        ]
+       }
+      },
+      {
+       "Mauritania": {
+        "children": [
+         "39584"
+        ]
+       }
+      },
+      {
+       "Mauritius": {
+        "children": [
+         "56306"
+        ]
+       }
+      },
+      {
+       "Mayotte": {
+        "children": [
+         "21043"
+        ]
+       }
+      },
+      {
+       "Mozambique": {
+        "children": [
+         "152000"
+        ]
+       }
+      },
+      {
+       "Namibia": {
+        "children": [
+         "129508"
+        ]
+       }
+      },
+      {
+       "Niger": {
+        "children": [
+         "7091"
+        ]
+       }
+      },
+      {
+       "Nigeria": {
+        "children": [
+         "214789"
+        ]
+       }
+      },
+      {
+       "Rwanda": {
+        "children": [
+         "100429"
+        ]
+       }
+      },
+      {
+       "R¨¦union": {
+        "children": [
+         "63863"
+        ]
+       }
+      },
+      {
+       "Sao Tome and Principe": {
+        "children": [
+         "3733"
+        ]
+       }
+      },
+      {
+       "Senegal": {
+        "children": [
+         "74031"
+        ]
+       }
+      },
+      {
+       "Seychelles": {
+        "children": [
+         "23689"
+        ]
+       }
+      },
+      {
+       "Sierra Leone": {
+        "children": [
+         "6405"
+        ]
+       }
+      },
+      {
+       "South Africa": {
+        "children": [
+         "3038075"
+        ]
+       }
+      },
+      {
+       "South Sudan": {
+        "children": [
+         "12826"
+        ]
+       }
+      },
+      {
+       "Togo": {
+        "children": [
+         "26315"
+        ]
+       }
+      },
+      {
+       "Uganda": {
+        "children": [
+         "127775"
+        ]
+       }
+      },
+      {
+       "United Republic of Tanzania": {
+        "children": [
+         "26270"
+        ]
+       }
+      },
+      {
+       "Zambia": {
+        "children": [
+         "210327"
+        ]
+       }
+      },
+      {
+       "Zimbabwe": {
+        "children": [
+         "139046"
+        ]
+       }
+      }
+     ]
+    }
+   },
+   {
+    "AMRO": {
+     "children": [
+      {
+       "Anguilla": {
+        "children": [
+         "1414"
+        ]
+       }
+      },
+      {
+       "Antigua and Barbuda": {
+        "children": [
+         "4148"
+        ]
+       }
+      },
+      {
+       "Argentina": {
+        "children": [
+         "5340676"
+        ]
+       }
+      },
+      {
+       "Aruba": {
+        "children": [
+         "16450"
+        ]
+       }
+      },
+      {
+       "Bahamas": {
+        "children": [
+         "22839"
+        ]
+       }
+      },
+      {
+       "Barbados": {
+        "children": [
+         "26094"
+        ]
+       }
+      },
+      {
+       "Belize": {
+        "children": [
+         "30680"
+        ]
+       }
+      },
+      {
+       "Bermuda": {
+        "children": [
+         "5753"
+        ]
+       }
+      },
+      {
+       "Bolivia (Plurinational State of)": {
+        "children": [
+         "543390"
+        ]
+       }
+      },
+      {
+       "Bonaire": {
+        "children": [
+         "2998"
+        ]
+       }
+      },
+      {
+       "Brazil": {
+        "children": [
+         "22143091"
+        ]
+       }
+      },
+      {
+       "British Virgin Islands": {
+        "children": [
+         "2816"
+        ]
+       }
+      },
+      {
+       "Canada": {
+        "children": [
+         "1802359"
+        ]
+       }
+      },
+      {
+       "Cayman Islands": {
+        "children": [
+         "7529"
+        ]
+       }
+      },
+      {
+       "Chile": {
+        "children": [
+         "1774048"
+        ]
+       }
+      },
+      {
+       "Colombia": {
+        "children": [
+         "5081064"
+        ]
+       }
+      },
+      {
+       "Costa Rica": {
+        "children": [
+         "567383"
+        ]
+       }
+      },
+      {
+       "Cuba": {
+        "children": [
+         "963194"
+        ]
+       }
+      },
+      {
+       "Cura?ao": {
+        "children": [
+         "17485"
+        ]
+       }
+      },
+      {
+       "Dominica": {
+        "children": [
+         "5776"
+        ]
+       }
+      },
+      {
+       "Dominican Republic": {
+        "children": [
+         "408748"
+        ]
+       }
+      },
+      {
+       "Ecuador": {
+        "children": [
+         "529349"
+        ]
+       }
+      },
+      {
+       "El Salvador": {
+        "children": [
+         "119803"
+        ]
+       }
+      },
+      {
+       "Falkland Islands (Malvinas)": {
+        "children": [
+         "79"
+        ]
+       }
+      },
+      {
+       "French Guiana": {
+        "children": [
+         "46205"
+        ]
+       }
+      },
+      {
+       "Grenada": {
+        "children": [
+         "5908"
+        ]
+       }
+      },
+      {
+       "Guadeloupe": {
+        "children": [
+         "55080"
+        ]
+       }
+      },
+      {
+       "Guatemala": {
+        "children": [
+         "619852"
+        ]
+       }
+      },
+      {
+       "Guyana": {
+        "children": [
+         "38160"
+        ]
+       }
+      },
+      {
+       "Haiti": {
+        "children": [
+         "25638"
+        ]
+       }
+      },
+      {
+       "Honduras": {
+        "children": [
+         "378113"
+        ]
+       }
+      },
+      {
+       "Jamaica": {
+        "children": [
+         "91536"
+        ]
+       }
+      },
+      {
+       "Martinique": {
+        "children": [
+         "45811"
+        ]
+       }
+      },
+      {
+       "Mexico": {
+        "children": [
+         "3901263"
+        ]
+       }
+      },
+      {
+       "Montserrat": {
+        "children": [
+         "44"
+        ]
+       }
+      },
+      {
+       "Nicaragua": {
+        "children": [
+         "13397"
+        ]
+       }
+      },
+      {
+       "Panama": {
+        "children": [
+         "479053"
+        ]
+       }
+      },
+      {
+       "Paraguay": {
+        "children": [
+         "463372"
+        ]
+       }
+      },
+      {
+       "Peru": {
+        "children": [
+         "2243415"
+        ]
+       }
+      },
+      {
+       "Puerto Rico": {
+        "children": [
+         "188891"
+        ]
+       }
+      },
+      {
+       "Saba": {
+        "children": [
+         "12"
+        ]
+       }
+      },
+      {
+       "Saint Barth¨¦lemy": {
+        "children": [
+         "1674"
+        ]
+       }
+      },
+      {
+       "Saint Kitts and Nevis": {
+        "children": [
+         "2790"
+        ]
+       }
+      },
+      {
+       "Saint Lucia": {
+        "children": [
+         "13048"
+        ]
+       }
+      },
+      {
+       "Saint Martin": {
+        "children": [
+         "4040"
+        ]
+       }
+      },
+      {
+       "Saint Pierre and Miquelon": {
+        "children": [
+         "88"
+        ]
+       }
+      },
+      {
+       "Saint Vincent and the Grenadines": {
+        "children": [
+         "5623"
+        ]
+       }
+      },
+      {
+       "Sint Eustatius": {
+        "children": [
+         "31"
+        ]
+       }
+      },
+      {
+       "Sint Maarten": {
+        "children": [
+         "4594"
+        ]
+       }
+      },
+      {
+       "Suriname": {
+        "children": [
+         "51009"
+        ]
+       }
+      },
+      {
+       "Trinidad and Tobago": {
+        "children": [
+         "75134"
+        ]
+       }
+      },
+      {
+       "Turks and Caicos Islands": {
+        "children": [
+         "3107"
+        ]
+       }
+      },
+      {
+       "United States Virgin Islands": {
+        "children": [
+         "7549"
+        ]
+       }
+      },
+      {
+       "United States of America": {
+        "children": [
+         "48786421"
+        ]
+       }
+      },
+      {
+       "Uruguay": {
+        "children": [
+         "400925"
+        ]
+       }
+      },
+      {
+       "Venezuela (Bolivarian Republic of)": {
+        "children": [
+         "434918"
+        ]
+       }
+      }
+     ]
+    }
+   },
+   {
+    "EMRO": {
+     "children": [
+      {
+       "Afghanistan": {
+        "children": [
+         "157499"
+        ]
+       }
+      },
+      {
+       "Bahrain": {
+        "children": [
+         "277856"
+        ]
+       }
+      },
+      {
+       "Djibouti": {
+        "children": [
+         "13508"
+        ]
+       }
+      },
+      {
+       "Egypt": {
+        "children": [
+         "364033"
+        ]
+       }
+      },
+      {
+       "Iran (Islamic Republic of)": {
+        "children": [
+         "6137821"
+        ]
+       }
+      },
+      {
+       "Iraq": {
+        "children": [
+         "2084961"
+        ]
+       }
+      },
+      {
+       "Jordan": {
+        "children": [
+         "981767"
+        ]
+       }
+      },
+      {
+       "Kuwait": {
+        "children": [
+         "413524"
+        ]
+       }
+      },
+      {
+       "Lebanon": {
+        "children": [
+         "679598"
+        ]
+       }
+      },
+      {
+       "Libya": {
+        "children": [
+         "375468"
+        ]
+       }
+      },
+      {
+       "Morocco": {
+        "children": [
+         "950643"
+        ]
+       }
+      },
+      {
+       "Oman": {
+        "children": [
+         "304612"
+        ]
+       }
+      },
+      {
+       "Pakistan": {
+        "children": [
+         "1287161"
+        ]
+       }
+      },
+      {
+       "Qatar": {
+        "children": [
+         "244387"
+        ]
+       }
+      },
+      {
+       "Saudi Arabia": {
+        "children": [
+         "549955"
+        ]
+       }
+      },
+      {
+       "Somalia": {
+        "children": [
+         "23051"
+        ]
+       }
+      },
+      {
+       "Sudan": {
+        "children": [
+         "44170"
+        ]
+       }
+      },
+      {
+       "Syrian Arab Republic": {
+        "children": [
+         "48709"
+        ]
+       }
+      },
+      {
+       "Tunisia": {
+        "children": [
+         "718498"
+        ]
+       }
+      },
+      {
+       "United Arab Emirates": {
+        "children": [
+         "742376"
+        ]
+       }
+      },
+      {
+       "Yemen": {
+        "children": [
+         "10034"
+        ]
+       }
+      },
+      {
+       "occupied Palestinian territory, including east Jerusalem": {
+        "children": [
+         "462621"
+        ]
+       }
+      }
+     ]
+    }
+   },
+   {
+    "EURO": {
+     "children": [
+      {
+       "Albania": {
+        "children": [
+         "201902"
+        ]
+       }
+      },
+      {
+       "Andorra": {
+        "children": [
+         "18631"
+        ]
+       }
+      },
+      {
+       "Armenia": {
+        "children": [
+         "341058"
+        ]
+       }
+      },
+      {
+       "Austria": {
+        "children": [
+         "1201121"
+        ]
+       }
+      },
+      {
+       "Azerbaijan": {
+        "children": [
+         "596973"
+        ]
+       }
+      },
+      {
+       "Belarus": {
+        "children": [
+         "665125"
+        ]
+       }
+      },
+      {
+       "Belgium": {
+        "children": [
+         "1868906"
+        ]
+       }
+      },
+      {
+       "Bosnia and Herzegovina": {
+        "children": [
+         "278511"
+        ]
+       }
+      },
+      {
+       "Bulgaria": {
+        "children": [
+         "705586"
+        ]
+       }
+      },
+      {
+       "Croatia": {
+        "children": [
+         "631765"
+        ]
+       }
+      },
+      {
+       "Cyprus": {
+        "children": [
+         "137538"
+        ]
+       }
+      },
+      {
+       "Czechia": {
+        "children": [
+         "2262666"
+        ]
+       }
+      },
+      {
+       "Denmark": {
+        "children": [
+         "516257"
+        ]
+       }
+      },
+      {
+       "Estonia": {
+        "children": [
+         "225837"
+        ]
+       }
+      },
+      {
+       "Faroe Islands": {
+        "children": [
+         "3957"
+        ]
+       }
+      },
+      {
+       "Finland": {
+        "children": [
+         "196180"
+        ]
+       }
+      },
+      {
+       "France": {
+        "children": [
+         "7690768"
+        ]
+       }
+      },
+      {
+       "Georgia": {
+        "children": [
+         "871580"
+        ]
+       }
+      },
+      {
+       "Germany": {
+        "children": [
+         "6222020"
+        ]
+       }
+      },
+      {
+       "Gibraltar": {
+        "children": [
+         "7376"
+        ]
+       }
+      },
+      {
+       "Greece": {
+        "children": [
+         "971148"
+        ]
+       }
+      },
+      {
+       "Greenland": {
+        "children": [
+         "1621"
+        ]
+       }
+      },
+      {
+       "Guernsey": {
+        "children": [
+         "4633"
+        ]
+       }
+      },
+      {
+       "Holy See": {
+        "children": [
+         "26"
+        ]
+       }
+      },
+      {
+       "Hungary": {
+        "children": [
+         "1161879"
+        ]
+       }
+      },
+      {
+       "Iceland": {
+        "children": [
+         "18765"
+        ]
+       }
+      },
+      {
+       "Ireland": {
+        "children": [
+         "597161"
+        ]
+       }
+      },
+      {
+       "Isle of Man": {
+        "children": [
+         "12035"
+        ]
+       }
+      },
+      {
+       "Israel": {
+        "children": [
+         "1346845"
+        ]
+       }
+      },
+      {
+       "Italy": {
+        "children": [
+         "5118576"
+        ]
+       }
+      },
+      {
+       "Jersey": {
+        "children": [
+         "14842"
+        ]
+       }
+      },
+      {
+       "Kazakhstan": {
+        "children": [
+         "1059309"
+        ]
+       }
+      },
+      {
+       "Kosovo[1]": {
+        "children": [
+         "161096"
+        ]
+       }
+      },
+      {
+       "Kyrgyzstan": {
+        "children": [
+         "183712"
+        ]
+       }
+      },
+      {
+       "Latvia": {
+        "children": [
+         "257559"
+        ]
+       }
+      },
+      {
+       "Liechtenstein": {
+        "children": [
+         "5053"
+        ]
+       }
+      },
+      {
+       "Lithuania": {
+        "children": [
+         "482458"
+        ]
+       }
+      },
+      {
+       "Luxembourg": {
+        "children": [
+         "91709"
+        ]
+       }
+      },
+      {
+       "Malta": {
+        "children": [
+         "40012"
+        ]
+       }
+      },
+      {
+       "Monaco": {
+        "children": [
+         "3902"
+        ]
+       }
+      },
+      {
+       "Montenegro": {
+        "children": [
+         "158622"
+        ]
+       }
+      },
+      {
+       "Netherlands": {
+        "children": [
+         "2772919"
+        ]
+       }
+      },
+      {
+       "North Macedonia": {
+        "children": [
+         "217400"
+        ]
+       }
+      },
+      {
+       "Norway": {
+        "children": [
+         "285488"
+        ]
+       }
+      },
+      {
+       "Poland": {
+        "children": [
+         "3704040"
+        ]
+       }
+      },
+      {
+       "Portugal": {
+        "children": [
+         "1169003"
+        ]
+       }
+      },
+      {
+       "Republic of Moldova": {
+        "children": [
+         "366751"
+        ]
+       }
+      },
+      {
+       "Romania": {
+        "children": [
+         "1786839"
+        ]
+       }
+      },
+      {
+       "Russian Federation": {
+        "children": [
+         "9864845"
+        ]
+       }
+      },
+      {
+       "San Marino": {
+        "children": [
+         "6308"
+        ]
+       }
+      },
+      {
+       "Serbia": {
+        "children": [
+         "1265228"
+        ]
+       }
+      },
+      {
+       "Slovakia": {
+        "children": [
+         "739544"
+        ]
+       }
+      },
+      {
+       "Slovenia": {
+        "children": [
+         "430839"
+        ]
+       }
+      },
+      {
+       "Spain": {
+        "children": [
+         "5189221"
+        ]
+       }
+      },
+      {
+       "Sweden": {
+        "children": [
+         "1212145"
+        ]
+       }
+      },
+      {
+       "Switzerland": {
+        "children": [
+         "1063475"
+        ]
+       }
+      },
+      {
+       "Tajikistan": {
+        "children": [
+         "17493"
+        ]
+       }
+      },
+      {
+       "The United Kingdom": {
+        "children": [
+         "10515243"
+        ]
+       }
+      },
+      {
+       "Turkey": {
+        "children": [
+         "8921150"
+        ]
+       }
+      },
+      {
+       "Ukraine": {
+        "children": [
+         "3510610"
+        ]
+       }
+      },
+      {
+       "Uzbekistan": {
+        "children": [
+         "194703"
+        ]
+       }
+      }
+     ]
+    }
+   },
+   {
+    "SEARO": {
+     "children": [
+      {
+       "Bangladesh": {
+        "children": [
+         "1577720"
+        ]
+       }
+      },
+      {
+       "Bhutan": {
+        "children": [
+         "2641"
+        ]
+       }
+      },
+      {
+       "India": {
+        "children": [
+         "34648383"
+        ]
+       }
+      },
+      {
+       "Indonesia": {
+        "children": [
+         "4258076"
+        ]
+       }
+      },
+      {
+       "Maldives": {
+        "children": [
+         "92368"
+        ]
+       }
+      },
+      {
+       "Myanmar": {
+        "children": [
+         "524638"
+        ]
+       }
+      },
+      {
+       "Nepal": {
+        "children": [
+         "823102"
+        ]
+       }
+      },
+      {
+       "Sri Lanka": {
+        "children": [
+         "568423"
+        ]
+       }
+      },
+      {
+       "Thailand": {
+        "children": [
+         "2148766"
+        ]
+       }
+      },
+      {
+       "Timor-Leste": {
+        "children": [
+         "19829"
+        ]
+       }
+      }
+     ]
+    }
+   },
+   {
+    "WPRO": {
+     "children": [
+      {
+       "American Samoa": {
+        "children": [
+         "10"
+        ]
+       }
+      },
+      {
+       "Australia": {
+        "children": [
+         "219118"
+        ]
+       }
+      },
+      {
+       "Brunei Darussalam": {
+        "children": [
+         "15202"
+        ]
+       }
+      },
+      {
+       "Cambodia": {
+        "children": [
+         "120272"
+        ]
+       }
+      },
+      {
+       "China": {
+        "children": [
+         "128502"
+        ]
+       }
+      },
+      {
+       "Cook Islands": {
+        "children": [
+         "1"
+        ]
+       }
+      },
+      {
+       "Fiji": {
+        "children": [
+         "52562"
+        ]
+       }
+      },
+      {
+       "French Polynesia": {
+        "children": [
+         "46332"
+        ]
+       }
+      },
+      {
+       "Guam": {
+        "children": [
+         "15180"
+        ]
+       }
+      },
+      {
+       "Japan": {
+        "children": [
+         "1728015"
+        ]
+       }
+      },
+      {
+       "Lao People's Democratic Republic": {
+        "children": [
+         "80722"
+        ]
+       }
+      },
+      {
+       "Malaysia": {
+        "children": [
+         "2663034"
+        ]
+       }
+      },
+      {
+       "Marshall Islands": {
+        "children": [
+         "4"
+        ]
+       }
+      },
+      {
+       "Mongolia": {
+        "children": [
+         "383559"
+        ]
+       }
+      },
+      {
+       "New Caledonia": {
+        "children": [
+         "12409"
+        ]
+       }
+      },
+      {
+       "New Zealand": {
+        "children": [
+         "12058"
+        ]
+       }
+      },
+      {
+       "Northern Mariana Islands (Commonwealth of the)": {
+        "children": [
+         "1182"
+        ]
+       }
+      },
+      {
+       "Palau": {
+        "children": [
+         "8"
+        ]
+       }
+      },
+      {
+       "Papua New Guinea": {
+        "children": [
+         "35662"
+        ]
+       }
+      },
+      {
+       "Philippines": {
+        "children": [
+         "2835154"
+        ]
+       }
+      },
+      {
+       "Republic of Korea": {
+        "children": [
+         "482310"
+        ]
+       }
+      },
+      {
+       "Singapore": {
+        "children": [
+         "269873"
+        ]
+       }
+      },
+      {
+       "Solomon Islands": {
+        "children": [
+         "20"
+        ]
+       }
+      },
+      {
+       "Vanuatu": {
+        "children": [
+         "5"
+        ]
+       }
+      },
+      {
+       "Viet Nam": {
+        "children": [
+         "1323683"
+        ]
+       }
+      },
+      {
+       "Wallis and Futuna": {
+        "children": [
+         "454"
+        ]
+       }
+      }
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+ <body>
+  <h1>{{header}}</h1>
+  <h3><a href="/">Return to index page</a></h3>
+  <div id='chart' class='chart'”></div>
+  <div>{{description}}</div>
+</body>
+<script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+<script type='text/javascript'>
+  var graphs = {{plot_json | safe}};
+  Plotly.plot('chart',graphs,{});
+</script>
+</html>

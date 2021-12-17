@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.21.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.2.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.20.0"></script>
+</head>
+<body>
+  <h1>{{header}}</h1>
+  <h3><a href="/">Return to index page</a></h3>
+  <div id="vis"/>
+  <div>{{description}}</div>
+  <script>
+    const spec = {
+  "config": {"view": {"continuousWidth": 400, "continuousHeight": 300}},
+  "layer": [
+    {
+      "mark": {"type": "line", "interpolate": "basis"},
+      "encoding": {
+        "x": {"field": "date", "type": "nominal"},
+        "y": {"field": "monthly_increase", "type": "quantitative"}
+      }
+    },
+    {
+      "mark": "point",
+      "encoding": {
+        "opacity": {"value": 0},
+        "x": {"field": "date", "type": "nominal"}
+      },
+      "selection": {
+        "selector016": {
+          "type": "single",
+          "nearest": true,
+          "on": "mouseover",
+          "fields": ["date"],
+          "empty": "none"
+        }
+      }
+    },
+    {
+      "mark": "point",
+      "encoding": {
+        "opacity": {
+          "condition": {"value": 1, "selection": "selector016"},
+          "value": 0
+        },
+        "x": {"field": "date", "type": "nominal"},
+        "y": {"field": "monthly_increase", "type": "quantitative"}
+      }
+    },
+    {
+      "mark": {"type": "rule", "color": "gray"},
+      "encoding": {"x": {"field": "date", "type": "nominal"}},
+      "transform": [{"filter": {"selection": "selector016"}}]
+    },
+    {
+      "mark": {"type": "text", "align": "left", "dx": 5, "dy": -5},
+      "encoding": {
+        "text": {
+          "condition": {
+            "field": "monthly_increase",
+            "type": "quantitative",
+            "selection": "selector016"
+          },
+          "value": " "
+        },
+        "x": {"field": "date", "type": "nominal"},
+        "y": {"field": "monthly_increase", "type": "quantitative"}
+      }
+    }
+  ],
+  "data": {"name": "data-e9e91d843e6798b4a5c0ab09fd0bc295"},
+  "height": 300,
+  "width": 600,
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json",
+  "datasets": {
+    "data-e9e91d843e6798b4a5c0ab09fd0bc295": [
+      {
+        "year": 2020,
+        "month": "January",
+        "date": "2020-01-01",
+        "monthly_increase": 6
+      },
+      {
+        "year": 2020,
+        "month": "February",
+        "date": "2020-02-01",
+        "monthly_increase": 63
+      },
+      {
+        "year": 2020,
+        "month": "March",
+        "date": "2020-03-01",
+        "monthly_increase": 188391
+      },
+      {
+        "year": 2020,
+        "month": "April",
+        "date": "2020-04-01",
+        "monthly_increase": 887295
+      },
+      {
+        "year": 2020,
+        "month": "May",
+        "date": "2020-05-01",
+        "monthly_increase": 723546
+      },
+      {
+        "year": 2020,
+        "month": "June",
+        "date": "2020-06-01",
+        "monthly_increase": 854019
+      },
+      {
+        "year": 2020,
+        "month": "July",
+        "date": "2020-07-01",
+        "monthly_increase": 1918348
+      },
+      {
+        "year": 2020,
+        "month": "August",
+        "date": "2020-08-01",
+        "monthly_increase": 1473788
+      },
+      {
+        "year": 2020,
+        "month": "September",
+        "date": "2020-09-01",
+        "monthly_increase": 1217278
+      },
+      {
+        "year": 2020,
+        "month": "October",
+        "date": "2020-10-01",
+        "monthly_increase": 1946272
+      },
+      {
+        "year": 2020,
+        "month": "November",
+        "date": "2020-11-01",
+        "monthly_increase": 4406314
+      },
+      {
+        "year": 2020,
+        "month": "December",
+        "date": "2020-12-01",
+        "monthly_increase": 6409480
+      },
+      {
+        "year": 2021,
+        "month": "January ",
+        "date": "2021-01-01",
+        "monthly_increase": 6196629
+      },
+      {
+        "year": 2021,
+        "month": "February ",
+        "date": "2021-02-01",
+        "monthly_increase": 2402731
+      },
+      {
+        "year": 2021,
+        "month": "March ",
+        "date": "2021-03-01",
+        "monthly_increase": 1854725
+      },
+      {
+        "year": 2021,
+        "month": "April ",
+        "date": "2021-04-01",
+        "monthly_increase": 1883488
+      },
+      {
+        "year": 2021,
+        "month": "May ",
+        "date": "2021-05-01",
+        "monthly_increase": 915538
+      },
+      {
+        "year": 2021,
+        "month": "June ",
+        "date": "2021-06-01",
+        "monthly_increase": 361852
+      },
+      {
+        "year": 2021,
+        "month": "July ",
+        "date": "2021-07-01",
+        "monthly_increase": 1378800
+      },
+      {
+        "year": 2021,
+        "month": "August ",
+        "date": "2021-08-01",
+        "monthly_increase": 4298065
+      },
+      {
+        "year": 2021,
+        "month": "September ",
+        "date": "2021-09-01",
+        "monthly_increase": 4141403
+      },
+      {
+        "year": 2021,
+        "month": "October ",
+        "date": "2021-10-01",
+        "monthly_increase": 2476063
+      },
+      {
+        "year": 2021,
+        "month": "November ",
+        "date": "2021-11-01",
+        "monthly_increase": 2261087
+      }
+    ]
+  }
+};
+    vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+  </script>
+</body>
+</html>

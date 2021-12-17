@@ -1,0 +1,455 @@
+World
+├── AFRO
+│   ├── Algeria
+│   │   └── 211662
+│   ├── Angola
+│   │   └── 65280
+│   ├── Benin
+│   │   └── 24863
+│   ├── Botswana
+│   │   └── 195552
+│   ├── Burkina Faso
+│   │   └── 16000
+│   ├── Burundi
+│   │   └── 20523
+│   ├── C?te d¡¯Ivoire
+│   │   └── 61826
+│   ├── Cabo Verde
+│   │   └── 38453
+│   ├── Cameroon
+│   │   └── 107148
+│   ├── Central African Republic
+│   │   └── 11742
+│   ├── Chad
+│   │   └── 5703
+│   ├── Comoros
+│   │   └── 4543
+│   ├── Congo
+│   │   └── 19066
+│   ├── Democratic Republic of the Congo
+│   │   └── 59175
+│   ├── Equatorial Guinea
+│   │   └── 13599
+│   ├── Eritrea
+│   │   └── 7484
+│   ├── Eswatini
+│   │   └── 47851
+│   ├── Ethiopia
+│   │   └── 372334
+│   ├── Gabon
+│   │   └── 37511
+│   ├── Gambia
+│   │   └── 9998
+│   ├── Ghana
+│   │   └── 131246
+│   ├── Guinea
+│   │   └── 30798
+│   ├── Guinea-Bissau
+│   │   └── 6444
+│   ├── Kenya
+│   │   └── 255469
+│   ├── Lesotho
+│   │   └── 21838
+│   ├── Liberia
+│   │   └── 5829
+│   ├── Madagascar
+│   │   └── 44330
+│   ├── Malawi
+│   │   └── 61997
+│   ├── Mali
+│   │   └── 17972
+│   ├── Mauritania
+│   │   └── 39584
+│   ├── Mauritius
+│   │   └── 56306
+│   ├── Mayotte
+│   │   └── 21043
+│   ├── Mozambique
+│   │   └── 152000
+│   ├── Namibia
+│   │   └── 129508
+│   ├── Niger
+│   │   └── 7091
+│   ├── Nigeria
+│   │   └── 214789
+│   ├── Rwanda
+│   │   └── 100429
+│   ├── R¨¦union
+│   │   └── 63863
+│   ├── Sao Tome and Principe
+│   │   └── 3733
+│   ├── Senegal
+│   │   └── 74031
+│   ├── Seychelles
+│   │   └── 23689
+│   ├── Sierra Leone
+│   │   └── 6405
+│   ├── South Africa
+│   │   └── 3038075
+│   ├── South Sudan
+│   │   └── 12826
+│   ├── Togo
+│   │   └── 26315
+│   ├── Uganda
+│   │   └── 127775
+│   ├── United Republic of Tanzania
+│   │   └── 26270
+│   ├── Zambia
+│   │   └── 210327
+│   └── Zimbabwe
+│       └── 139046
+├── AMRO
+│   ├── Anguilla
+│   │   └── 1414
+│   ├── Antigua and Barbuda
+│   │   └── 4148
+│   ├── Argentina
+│   │   └── 5340676
+│   ├── Aruba
+│   │   └── 16450
+│   ├── Bahamas
+│   │   └── 22839
+│   ├── Barbados
+│   │   └── 26094
+│   ├── Belize
+│   │   └── 30680
+│   ├── Bermuda
+│   │   └── 5753
+│   ├── Bolivia (Plurinational State of)
+│   │   └── 543390
+│   ├── Bonaire
+│   │   └── 2998
+│   ├── Brazil
+│   │   └── 22143091
+│   ├── British Virgin Islands
+│   │   └── 2816
+│   ├── Canada
+│   │   └── 1802359
+│   ├── Cayman Islands
+│   │   └── 7529
+│   ├── Chile
+│   │   └── 1774048
+│   ├── Colombia
+│   │   └── 5081064
+│   ├── Costa Rica
+│   │   └── 567383
+│   ├── Cuba
+│   │   └── 963194
+│   ├── Cura?ao
+│   │   └── 17485
+│   ├── Dominica
+│   │   └── 5776
+│   ├── Dominican Republic
+│   │   └── 408748
+│   ├── Ecuador
+│   │   └── 529349
+│   ├── El Salvador
+│   │   └── 119803
+│   ├── Falkland Islands (Malvinas)
+│   │   └── 79
+│   ├── French Guiana
+│   │   └── 46205
+│   ├── Grenada
+│   │   └── 5908
+│   ├── Guadeloupe
+│   │   └── 55080
+│   ├── Guatemala
+│   │   └── 619852
+│   ├── Guyana
+│   │   └── 38160
+│   ├── Haiti
+│   │   └── 25638
+│   ├── Honduras
+│   │   └── 378113
+│   ├── Jamaica
+│   │   └── 91536
+│   ├── Martinique
+│   │   └── 45811
+│   ├── Mexico
+│   │   └── 3901263
+│   ├── Montserrat
+│   │   └── 44
+│   ├── Nicaragua
+│   │   └── 13397
+│   ├── Panama
+│   │   └── 479053
+│   ├── Paraguay
+│   │   └── 463372
+│   ├── Peru
+│   │   └── 2243415
+│   ├── Puerto Rico
+│   │   └── 188891
+│   ├── Saba
+│   │   └── 12
+│   ├── Saint Barth¨¦lemy
+│   │   └── 1674
+│   ├── Saint Kitts and Nevis
+│   │   └── 2790
+│   ├── Saint Lucia
+│   │   └── 13048
+│   ├── Saint Martin
+│   │   └── 4040
+│   ├── Saint Pierre and Miquelon
+│   │   └── 88
+│   ├── Saint Vincent and the Grenadines
+│   │   └── 5623
+│   ├── Sint Eustatius
+│   │   └── 31
+│   ├── Sint Maarten
+│   │   └── 4594
+│   ├── Suriname
+│   │   └── 51009
+│   ├── Trinidad and Tobago
+│   │   └── 75134
+│   ├── Turks and Caicos Islands
+│   │   └── 3107
+│   ├── United States Virgin Islands
+│   │   └── 7549
+│   ├── United States of America
+│   │   └── 48786421
+│   ├── Uruguay
+│   │   └── 400925
+│   └── Venezuela (Bolivarian Republic of)
+│       └── 434918
+├── EMRO
+│   ├── Afghanistan
+│   │   └── 157499
+│   ├── Bahrain
+│   │   └── 277856
+│   ├── Djibouti
+│   │   └── 13508
+│   ├── Egypt
+│   │   └── 364033
+│   ├── Iran (Islamic Republic of)
+│   │   └── 6137821
+│   ├── Iraq
+│   │   └── 2084961
+│   ├── Jordan
+│   │   └── 981767
+│   ├── Kuwait
+│   │   └── 413524
+│   ├── Lebanon
+│   │   └── 679598
+│   ├── Libya
+│   │   └── 375468
+│   ├── Morocco
+│   │   └── 950643
+│   ├── Oman
+│   │   └── 304612
+│   ├── Pakistan
+│   │   └── 1287161
+│   ├── Qatar
+│   │   └── 244387
+│   ├── Saudi Arabia
+│   │   └── 549955
+│   ├── Somalia
+│   │   └── 23051
+│   ├── Sudan
+│   │   └── 44170
+│   ├── Syrian Arab Republic
+│   │   └── 48709
+│   ├── Tunisia
+│   │   └── 718498
+│   ├── United Arab Emirates
+│   │   └── 742376
+│   ├── Yemen
+│   │   └── 10034
+│   └── occupied Palestinian territory, including east Jerusalem
+│       └── 462621
+├── EURO
+│   ├── Albania
+│   │   └── 201902
+│   ├── Andorra
+│   │   └── 18631
+│   ├── Armenia
+│   │   └── 341058
+│   ├── Austria
+│   │   └── 1201121
+│   ├── Azerbaijan
+│   │   └── 596973
+│   ├── Belarus
+│   │   └── 665125
+│   ├── Belgium
+│   │   └── 1868906
+│   ├── Bosnia and Herzegovina
+│   │   └── 278511
+│   ├── Bulgaria
+│   │   └── 705586
+│   ├── Croatia
+│   │   └── 631765
+│   ├── Cyprus
+│   │   └── 137538
+│   ├── Czechia
+│   │   └── 2262666
+│   ├── Denmark
+│   │   └── 516257
+│   ├── Estonia
+│   │   └── 225837
+│   ├── Faroe Islands
+│   │   └── 3957
+│   ├── Finland
+│   │   └── 196180
+│   ├── France
+│   │   └── 7690768
+│   ├── Georgia
+│   │   └── 871580
+│   ├── Germany
+│   │   └── 6222020
+│   ├── Gibraltar
+│   │   └── 7376
+│   ├── Greece
+│   │   └── 971148
+│   ├── Greenland
+│   │   └── 1621
+│   ├── Guernsey
+│   │   └── 4633
+│   ├── Holy See
+│   │   └── 26
+│   ├── Hungary
+│   │   └── 1161879
+│   ├── Iceland
+│   │   └── 18765
+│   ├── Ireland
+│   │   └── 597161
+│   ├── Isle of Man
+│   │   └── 12035
+│   ├── Israel
+│   │   └── 1346845
+│   ├── Italy
+│   │   └── 5118576
+│   ├── Jersey
+│   │   └── 14842
+│   ├── Kazakhstan
+│   │   └── 1059309
+│   ├── Kosovo[1]
+│   │   └── 161096
+│   ├── Kyrgyzstan
+│   │   └── 183712
+│   ├── Latvia
+│   │   └── 257559
+│   ├── Liechtenstein
+│   │   └── 5053
+│   ├── Lithuania
+│   │   └── 482458
+│   ├── Luxembourg
+│   │   └── 91709
+│   ├── Malta
+│   │   └── 40012
+│   ├── Monaco
+│   │   └── 3902
+│   ├── Montenegro
+│   │   └── 158622
+│   ├── Netherlands
+│   │   └── 2772919
+│   ├── North Macedonia
+│   │   └── 217400
+│   ├── Norway
+│   │   └── 285488
+│   ├── Poland
+│   │   └── 3704040
+│   ├── Portugal
+│   │   └── 1169003
+│   ├── Republic of Moldova
+│   │   └── 366751
+│   ├── Romania
+│   │   └── 1786839
+│   ├── Russian Federation
+│   │   └── 9864845
+│   ├── San Marino
+│   │   └── 6308
+│   ├── Serbia
+│   │   └── 1265228
+│   ├── Slovakia
+│   │   └── 739544
+│   ├── Slovenia
+│   │   └── 430839
+│   ├── Spain
+│   │   └── 5189221
+│   ├── Sweden
+│   │   └── 1212145
+│   ├── Switzerland
+│   │   └── 1063475
+│   ├── Tajikistan
+│   │   └── 17493
+│   ├── The United Kingdom
+│   │   └── 10515243
+│   ├── Turkey
+│   │   └── 8921150
+│   ├── Ukraine
+│   │   └── 3510610
+│   └── Uzbekistan
+│       └── 194703
+├── SEARO
+│   ├── Bangladesh
+│   │   └── 1577720
+│   ├── Bhutan
+│   │   └── 2641
+│   ├── India
+│   │   └── 34648383
+│   ├── Indonesia
+│   │   └── 4258076
+│   ├── Maldives
+│   │   └── 92368
+│   ├── Myanmar
+│   │   └── 524638
+│   ├── Nepal
+│   │   └── 823102
+│   ├── Sri Lanka
+│   │   └── 568423
+│   ├── Thailand
+│   │   └── 2148766
+│   └── Timor-Leste
+│       └── 19829
+└── WPRO
+    ├── American Samoa
+    │   └── 10
+    ├── Australia
+    │   └── 219118
+    ├── Brunei Darussalam
+    │   └── 15202
+    ├── Cambodia
+    │   └── 120272
+    ├── China
+    │   └── 128502
+    ├── Cook Islands
+    │   └── 1
+    ├── Fiji
+    │   └── 52562
+    ├── French Polynesia
+    │   └── 46332
+    ├── Guam
+    │   └── 15180
+    ├── Japan
+    │   └── 1728015
+    ├── Lao People's Democratic Republic
+    │   └── 80722
+    ├── Malaysia
+    │   └── 2663034
+    ├── Marshall Islands
+    │   └── 4
+    ├── Mongolia
+    │   └── 383559
+    ├── New Caledonia
+    │   └── 12409
+    ├── New Zealand
+    │   └── 12058
+    ├── Northern Mariana Islands (Commonwealth of the)
+    │   └── 1182
+    ├── Palau
+    │   └── 8
+    ├── Papua New Guinea
+    │   └── 35662
+    ├── Philippines
+    │   └── 2835154
+    ├── Republic of Korea
+    │   └── 482310
+    ├── Singapore
+    │   └── 269873
+    ├── Solomon Islands
+    │   └── 20
+    ├── Vanuatu
+    │   └── 5
+    ├── Viet Nam
+    │   └── 1323683
+    └── Wallis and Futuna
+        └── 454
