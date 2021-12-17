@@ -1,6 +1,6 @@
 # Final507
 
-# Required package to run run.py
+# Required package to run main program(run.py)
 
 flask, render_template, plotly,pandas, plotly.express, plotly.offline, json
 altair(optional, plot source is stored in html templates)
